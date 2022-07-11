@@ -3,7 +3,6 @@
 - 💨 Atualmento estou tentando engreçar na carreira de Full-stack.
 - 🌱 Estudando Javascript
 - 📫  contate-me no email: williandias206@gmail.com
-- 😄 Pronouns: ele/dele
 
  <div>
   <a href="https://github.com/Diaswillian">
